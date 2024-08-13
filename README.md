@@ -1,5 +1,5 @@
 <!-- Seção de Header -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8ad0f2&height=80&section=header"/>
+[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8ad0f2&height=80&section=header"/>](https://capsule-render.vercel.app/api?type=waving&color=0a90ff&height=200&text=Bem-vindo!&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=twinkling)
 
 <!-- Seção de Introdução e Habilidades -->
 ## Olá, Meu nome é Edgar. Mais conhecido como "Edgarzin"! 👋
@@ -30,7 +30,7 @@
 - Especialista em automação no Telegram, com mais de 2 anos de experiência no desenvolvimento e venda de robôs para automação de pagamentos, integração com APIs e muito mais 🤖
 - Extensa experiência em Python e Node.js, aplicando essas tecnologias para criar soluções robustas e eficientes 💻
 
-##Projetos Recentes:
+## Projetos recentes
 - Cassino Online: sharkjogo.com (desenvolvido apenas por Edgar.)
 - Site RTP (Igaming): sinalrtpgratis.com (desenvolvido apenas por Edgar.)
 
