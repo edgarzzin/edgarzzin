@@ -1,5 +1,5 @@
 <!-- Seção de Header -->
-[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8ad0f2&height=80&section=header"/>](https://capsule-render.vercel.app/api?type=waving&color=0a90ff&height=200&text=Bem-vindo!&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=twinkling)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=200&section=header&text=Cyber%20Security&fontSize=50&fontColor=00ff00&animation=twinkling&fontAlignY=35"/>
 
 <!-- Seção de Introdução e Habilidades -->
 ## Olá, Meu nome é Edgar. Mais conhecido como "Edgarzin"! 👋
