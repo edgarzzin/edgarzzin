@@ -3,7 +3,7 @@
 
 
 <!-- Seção de Introdução e Habilidades -->
-## Olá, Meu nome é Edgar. Mais conhecido como "Edgarzin"! 👋
+## Hi! I'm Edgar also known as "Edgarzin"! 👋
 - Sou programador back-end e front-end com uma sólida experiência no desenvolvimento de projetos diversos.
 - Ao longo da minha carreira, desenvolvi dezenas de projetos de iGaming, criando e vendendo cassinos exclusivos e completos no mercado.
 - Tenho um expertise notável em automação no Telegram, atuando há mais de 2 anos no desenvolvimento e venda de robôs para automação de pagamentos, integração com APIs e muito mais.
