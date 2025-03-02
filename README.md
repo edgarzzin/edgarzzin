@@ -1,6 +1,4 @@
-## 👋 Olá! Edgar aqui:
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">ㅤ Olá! Edgar aqui:
 
  **Apenas um dev** apaixonado por, liberdade digital, inovação e inteligência artificial. Trabalho principalmente com **Node.js, Express, MongoDB** e tenho uma abordagem **caprichada** para criação de sistemas, também faço front-end.
 
