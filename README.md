@@ -1,102 +1,316 @@
-# Edgar Andrade | Fullstack Developer
+<!--
+  ─────────────────────────────────────────────────────────────────────────
+  EDGAR ANDRADE — GitHub profile README
+  Destination: github.com/edgarzzin (repo: edgarzzin/edgarzzin)
+  Aesthetic: Dark Premium · Linear/Vercel-inspired
+  Last validated: 2026-05-23
+  ─────────────────────────────────────────────────────────────────────────
+-->
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<a href="https://github.com/edgarzzin">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:38BDF8,100:0EA5E9&height=220&section=header&text=Edgar%20Andrade&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%C2%B7%20Building%20at%20scale&descAlignY=58&descSize=18" width="100%" alt="header" />
+</a>
 
-### Hello! I'm Edgar Andrade, a Fullstack Developer.
+<div align="center">
 
-I am a Fullstack Developer with expertise in **Node.js, Python, React, and TypeScript**. I specialize in architecting and developing scalable systems, real-time applications, automation, and API integrations. I have strong experience in cloud infrastructure (**AWS**) and building high-performance software architectures with a focus on efficiency and robustness.
+<a href="https://github.com/edgarzzin">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=700&color=7DD3FC&center=true&vCenter=true&width=760&lines=Architecting+real-time+%26+high-throughput+backends;Years+building+iGaming+%26+regulated+transactional+systems;Building+Muafans+%E2%80%94+creator+%2B+ads+%2B+MuaCoins+(in+development);Building+Muabooks+%E2%80%94+curated+digital+publishing+(in+development);Web3+%E2%80%A2+LLM+%E2%80%A2+Distributed+systems" alt="typing" />
+</a>
 
-<p align="left">
-  <a href="https://t.me/edgarzzin" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+<br/>
+
+<a href="https://t.me/edgarzzin">
+  <img src="https://img.shields.io/badge/Telegram-%40edgarzzin-38BDF8?style=flat-square&logo=telegram&logoColor=white&labelColor=0D1117" alt="Telegram" />
+</a>
+<img src="https://img.shields.io/badge/Based%20in-Brazil-10B981?style=flat-square&logo=googleearth&logoColor=white&labelColor=0D1117" alt="Location" />
+
+</div>
+
+<br/>
+
+##
+
+<table align="center" width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### `→` About
+
+Backend engineer with a long run in **iGaming platforms** — real-money
+systems, **crypto and fiat rails**, provider integrations, and the kind
+of regulatory pressure that doesn't allow slack. That domain shapes how
+I approach scale and reliability everywhere else.
+
+In parallel, I'm building two ventures, both in active development:
+the **Muafans** ecosystem (`muafans.com` · `ads.muafans` · **MuaCoins**
+crypto layer) and **Muabooks** (`muabooks.com`), an independent digital
+publishing house with its own in-browser reader across seven locales
+and Web3 payment rails on the roadmap.
+
+Node and Python on the hot paths, React on latency-sensitive
+surfaces, AWS underneath. Cross-cutting expertise: **Web3 / crypto
+rails**, **LLM tooling**, and closing the gap between "ships fast"
+and "ships correct."
+
+</td>
+<td width="45%" valign="top">
+
+### `◇` Currently
+
+```yaml
+focus:      iGaming platforms · real-time backend systems
+building:   Muafans (creator + ads + MuaCoins) · Muabooks
+web3:       crypto rails · stablecoin payouts · token-gated UX
+phase:      both ventures in active development
+stack:      TypeScript · Node · Python · React · AWS
+location:   Brazil → working globally
+status:     open to collaborations
+```
+
+</td>
+</tr>
+</table>
+
+##
+
+### `◆` Tech Stack
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,react,nextjs,express,socketio,mongodb,postgres,mysql,redis,aws,cloudflare,docker,nginx,linux,git,github&theme=dark&perline=9" alt="stack" />
+</a>
+
+</div>
+
+##
+
+### `▰` iGaming Platforms &nbsp;·&nbsp; Backend Architecture
+
+> Multi-year work as **backend lead** on a real-money iGaming platform — a
+> regulated, transactional environment where mistakes are measurable in
+> dollars and downtime in churn. (Operator name held private.)
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### `◉` Platform Engine
+
+- Real-time transaction processing and ledger
+- Player wallet, bets, settlements, payouts
+- **Crypto rails** — multi-chain deposits and withdrawals, stablecoin payouts, on-chain settlement
+- Multi-provider game integration layer
+- Socket.IO channels for live game state
+- Anti-fraud, AML, and chargeback handling across fiat and crypto
+
+</td>
+<td width="50%" valign="top">
+
+#### `▥` Operator Tooling
+
+- Managerial-grade admin panel
+- Audit trail and compliance workflows (fiat + on-chain)
+- Bonus and promo engine
+- Risk dashboards and reconciliation
+- Provider, payment, and reporting integrations
+
+</td>
+</tr>
+</table>
+
+<sub>
+
+`Node.js` · `Express` · `MongoDB` · `Redis` · `Socket.IO` · `Payment APIs` · `Crypto / Web3 rails` · `AWS`
+
+</sub>
+
+##
+
+### `▣` Muafans &nbsp;·&nbsp; Creator Ecosystem &nbsp;·&nbsp; *In Development*
+
+> Founder. `muafans.com`, `ads.muafans.com`, and the rails that connect
+> them — a creator platform, a self-serve advertising marketplace, and a
+> native digital currency, designed as one system. Currently in active
+> development.
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+#### `▸` Creator Surface
+
+`muafans.com` — the consumer app.
+
+- `For You` algorithmic feed
+- Live video streaming on a low-latency pipeline
+- Photo galleries and VOD library
+- Posts, DMs, paid messaging
+- Subscription tiers, tips, and gifts
+- Creator analytics
+- Mobile-first responsive UI
+
+</td>
+<td width="33%" valign="top">
+
+#### `◈` MuaCoins &nbsp;·&nbsp; Native Currency
+
+The economic primitive of the platform.
+
+- `MuaCoins` — in-platform credit
+- On-ramp store: buy MuaCoins with fiat or crypto
+- Spend on PPV, tips, subscriptions, gifts
+- Wallet, ledger, and reconciliation layer
+- Creator payouts and revenue splits
+- Anti-fraud and chargeback handling
+- Web3 settlement on the back
+
+</td>
+<td width="33%" valign="top">
+
+#### `▦` ads.muafans
+
+Self-serve advertising platform.
+
+- AdSense-style architecture
+- Targeting and audience segmentation
+- Real-time auction and bidding
+- Conversion tracking and attribution
+- Creative library with moderation
+- Advertiser dashboards and reporting
+- Revenue share back to creators
+
+</td>
+</tr>
+</table>
+
+<sub>
+
+`TypeScript` · `Node.js` · `Python` · `React` · `MongoDB` · `Redis` · `WebRTC / HLS` · `Stripe + crypto rails` · `AWS` · `Cloudflare`
+
+</sub>
+
+##
+
+### `❖` Muabooks &nbsp;·&nbsp; Independent Digital Publishing House &nbsp;·&nbsp; *In Development*
+
+> Founder. [`muabooks.com`](https://muabooks.com) — an independent publisher
+> of literary dark romance and translated fiction of Eastern origin. Every
+> volume is commissioned, translated, typeset, and distributed through an
+> in-browser reader I'm building. Operated by **Mua Holdings, LLC**
+> (Delaware). Currently in active development.
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### `▣` Platform
+
+- Proprietary in-browser reader — books are read inline, never downloaded; the distribution surface is also the DRM boundary
+- Seven locales end to end: `en` · `pt` · `es` · `fr` · `ja` · `ko` · `zh-Hant`, with native CJK typesetting
+- PWA install, offline-aware, dark and light themes
+- Stripe checkout, Google OAuth, Cloudflare Turnstile on the edge
+- **Web3 payment rails and token-gated collectible editions** on the roadmap
+- DMCA-compliant operations pipeline (legal, takedown, escalation paths)
+
+</td>
+<td width="50%" valign="top">
+
+#### `❦` Editorial &nbsp;·&nbsp; Design
+
+- A curated catalog rather than a marketplace dump
+- Original commissions alongside licensed translations
+- Editorial and new-releases RSS, OpenSearch, multi-locale OG
+- Schema.org-rich SEO across every surface
+- Typography paired for long-form reading: Cormorant Garamond + Lora
+- Flexible reader UX — type sizing, line-height, sepia mode
+
+</td>
+</tr>
+</table>
+
+<sub>
+
+`React + Vite` · `i18n (7 locales)` · `Stripe` · `Web3 rails (roadmap)` · `Cloudflare` · `PWA` · `EPUB rendering` · `OAuth`
+
+</sub>
+
+##
+
+### `→` Also Shipping
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Telegram Automation** &nbsp;·&nbsp; payment bots, broadcasting, and real-time monitoring built for bursty, high-volume traffic.
+<sub>`Python` · `Node.js` · `WebSockets`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Commerce & Storefronts** &nbsp;·&nbsp; cart, checkout, payment-API integrations, and admin panels on a fast cache + edge layer.
+<sub>`React` · `TypeScript` · `Node.js` · `Cloudflare`</sub>
+
+</td>
+</tr>
+</table>
+
+##
+
+### `▤` GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edgarzzin&bg_color=0D1117&color=7DD3FC&line=38BDF8&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="activity graph" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=edgarzzin&theme=tokyonight&hide_border=true&background=0D1117&stroke=7DD3FC&ring=7DD3FC&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=7DD3FC&dates=6E7681" height="180" alt="streak" />
+
+</div>
+
+##
+
+### `≋` Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edgarzzin/edgarzzin/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edgarzzin/edgarzzin/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/edgarzzin/edgarzzin/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="98%" />
+</picture>
+
+</div>
+
+##
+
+### `→` Let's build something
+
+<table align="center">
+<tr>
+<td align="center" width="160">
+  <a href="https://t.me/edgarzzin">
+    <img src="https://cdn.simpleicons.org/telegram/7DD3FC" width="44" height="44" /><br/><br/>
+    <sub><b>Telegram</b></sub>
   </a>
-</p>
-
----
-
-## 🚀 Tech Stack
-
-My technical skills are distributed across the following areas:
-
-#### 💻 Backend & Logic
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-</p>
-
-#### 🎨 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/EJS-A91E50?style=for-the-badge&logo=javascript&logoColor=white" alt="EJS">
-</p>
-
-#### 🗃️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
-
-#### ⚙️ Infrastructure, Real-Time & Others
-<p align="left">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
-
----
-
-## 🔥 Professional Experience & Key Projects
-
-Here are some projects that reflect my experience and technical capabilities.
-
-### 🎰 High-Performance Systems Architecture (Online Gaming System)
-> Architected and engineered a complete iGaming system, demonstrating advanced proficiency in backend logic, system autonomy, and real-time communication.
-
-- A robust **Admin Panel** focused on managerial UX and secure data control.
-- A mature, high-performance backend architecture designed to handle massive transactions.
-- Seamless integration with **third-party APIs** for game providers.
-- **Technologies:** `Node.js`, `Express`, `MongoDB`, `Socket.IO`, `EJS`
-
-### 🛍️ Full-Stack E-commerce Development
-> Created e-commerce platforms and custom websites with an emphasis on user experience and the underlying full-stack architecture.
-
-- Developed cart systems, checkout processes, and integrated with payment APIs.
-- Admin panel for managing products, orders, and affiliates.
-- Active contribution to projects using modern frameworks like **React** and **TypeScript**.
-- **Technologies:** `Node.js`, `React`, `TypeScript`, `MongoDB`, `Cloudflare`
-
-### 🤖 Automation & Real-Time Systems (Telegram Platform)
-> Developed sophisticated automation systems for the Telegram platform, including bots for payment processing, real-time monitoring, and large-scale broadcasting.
-
-- Focused on the **efficiency and scalability** of routines to ensure high performance.
-- Managed large volumes of data and financial transactions securely.
-- **Technologies:** `Python`, `Node.js`, `Payment APIs`, `WebSockets`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edgarzzin&show_icons=true&theme=radical" alt="Edgar's GitHub stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarzzin&layout=compact&theme=radical" alt="Top Langs">
-</p>
-
----
-
-## 📫 Get in Touch
-
-Feel free to connect or send me a message.
-
-<p align="left">
-  <a href="https://t.me/edgarzzin" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</td>
+<td align="center" width="160">
+  <a href="https://github.com/edgarzzin">
+    <img src="https://cdn.simpleicons.org/github/7DD3FC" width="44" height="44" /><br/><br/>
+    <sub><b>GitHub</b></sub>
   </a>
-</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <sub><i>"Premature optimization is the root of all evil" — Knuth · And yet, designed-for-scale is the difference between systems that survive growth and systems that don't.</i></sub>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,60:38BDF8,100:0D1117&height=120&section=footer" width="100%" alt="footer" />
