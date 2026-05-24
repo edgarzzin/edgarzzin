@@ -277,9 +277,9 @@ Self-serve advertising platform.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edgarzzin/edgarzzin/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edgarzzin/edgarzzin/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/edgarzzin/edgarzzin/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="98%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edgarzzin/edgarzzin/output/github-contribution-grid-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edgarzzin/edgarzzin/output/github-contribution-grid-snake.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/edgarzzin/edgarzzin/output/github-contribution-grid-snake-dark.svg?v=2" alt="snake animation" width="98%" />
 </picture>
 
 </div>
